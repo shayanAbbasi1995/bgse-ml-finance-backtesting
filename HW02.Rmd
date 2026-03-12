@@ -53,8 +53,6 @@ negativePartscr= na.omit(amzn$negativePartscr)
 names(negativePartscr)<- "negativePartscr"
 uncertaintyPartscr= na.omit(amzn$uncertaintyPartscr)
 names(uncertaintyPartscr)<- "uncertaintyPartscr"
-uncertaintyPartscr= na.omit(amzn$uncertaintyPartscr)
-names(uncertaintyPartscr)<- "uncertaintyPartscr"
 findownPartscr= na.omit(amzn$findownPartscr)
 names(findownPartscr)<- "findownPartscr"
 
